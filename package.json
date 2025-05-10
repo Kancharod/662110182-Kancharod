@@ -1,0 +1,17 @@
+{
+  "name": "ai-agent",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "marked": "^15.0.11",
+    "openai": "^4.98.0",
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/marked": "^6.0.0",
+    "@types/node": "^18.0.0",
+    "ts-node": "^10.9.2"
+  }
+}
